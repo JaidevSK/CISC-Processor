@@ -45,3 +45,5 @@ Branch instructions can only branch within the program.
 
 ### Testing of the Processor:
 https://iitgnacin-my.sharepoint.com/:v:/g/personal/22110103_iitgn_ac_in/EUMQBQeL1YVBuIcSWm6jgx0BnMzWYttBsIBk3BEvdV6LcQ?e=1NHFhW&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiJjYWMyODU1Yi1jNmFlLTQxNzMtOGE3ZC00ZjM1YjAwZWIxZWUifX0%3D
+
+
